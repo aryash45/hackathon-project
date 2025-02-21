@@ -1,4 +1,4 @@
-# hackathon-project
+# SkillXchange
 🚀 SkillXchange – AI-Powered Student Skill Bartering Platform
 💡 Concept:
 A peer-to-peer skill trading platform where students can exchange their skills instead of paying money. For example:
